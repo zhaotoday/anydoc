@@ -6,3 +6,4 @@
 
 #### 文档预览
 - [kkFileView](https://kkview.cn/zh-cn/index.html)
+- [微软在线 Office Web Viewer](https://www.microsoft.com/en-us/microsoft-365/blog/2013/04/10/office-web-viewer-view-office-documents-in-a-browser/)
