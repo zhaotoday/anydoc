@@ -1,1 +1,2 @@
-- [Mammoth: .docx to HTML converter](https://github.com/mwilliamson/mammoth.js)
+- [Mammoth: .docx 转 html](https://github.com/mwilliamson/mammoth.js)
+- [pdf2htmlEX: pdf 转 html](https://github.com/pdf2htmlEX/pdf2htmlEX)
