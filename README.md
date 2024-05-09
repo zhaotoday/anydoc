@@ -13,3 +13,5 @@
 #### 文档预览（付费）
 - [XDOC文档预览服务](https://view.xdocin.com/)
   
+#### 其他
+- [pdf.js](https://mozilla.github.io/pdf.js/)
