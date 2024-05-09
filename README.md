@@ -1,2 +1,3 @@
 - [Mammoth: .docx 转 html](https://github.com/mwilliamson/mammoth.js)
+- [html-docx-js-typescript: html 转 docx](https://github.com/caiyexiang/html-docx-js-typescript)
 - [pdf2htmlEX: pdf 转 html](https://github.com/pdf2htmlEX/pdf2htmlEX)
