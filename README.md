@@ -17,6 +17,7 @@
 
 #### 文章
 - [使用Openoffice或LibreOffice实现World、Excel、PPTX在线预览](https://juejin.cn/post/7264609364672512056)
+- [Spring Boot整合OpenOffice实现Word、Excel、PPT在线预览](https://juejin.cn/post/7120904778959290399)
 - [Word转html](https://juejin.cn/post/6854573212810870798)
 - [jodconverter实现在线预览](https://juejin.cn/post/7030766540010045453)
 
