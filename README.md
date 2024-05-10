@@ -17,6 +17,7 @@
 #### 文档预览（付费）
 - [XDOC文档预览服务](https://view.xdocin.com/)
 - [阿里云 Web Office](https://help.aliyun.com/zh/imm/user-guide/document-processing-1/)
+- [百度文档服务](https://cloud.baidu.com/product/doc.html)
 
 #### 文章
 - [使用Openoffice或LibreOffice实现World、Excel、PPTX在线预览](https://juejin.cn/post/7264609364672512056)
