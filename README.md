@@ -3,6 +3,7 @@
 - [html 转 docx: html-to-docx](https://github.com/privateOmega/html-to-docx)
 - [html 转 docx: html-docx-js-typescript](https://github.com/caiyexiang/html-docx-js-typescript)
 - [pdf 转 html: pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX)
+- [jodconverter: 将 Office 文档（如 Word、Excel、PowerPoint 等）转换为其他格式，例如 PDF、HTML、图像等](https://github.com/jodconverter/jodconverter)
 
 #### 文档预览（免费）
 - [kkFileView](https://kkview.cn/zh-cn/index.html)
