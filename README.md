@@ -25,6 +25,7 @@
 - [Word转html](https://juejin.cn/post/6854573212810870798)
 - [jodconverter实现在线预览](https://juejin.cn/post/7030766540010045453)
 - [Office在线预览方案](https://juejin.cn/post/7038854183809712135)
+- [使用docker在线/离线部署onlyoffice，在线预览/编辑demo](https://juejin.cn/post/7084101754962313253)
 
 #### 其他
 - [pdf.js](https://mozilla.github.io/pdf.js/)
