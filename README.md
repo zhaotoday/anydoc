@@ -12,6 +12,7 @@
 - [微软在线 Office Web Viewer](https://www.microsoft.com/en-us/microsoft-365/blog/2013/04/10/office-web-viewer-view-office-documents-in-a-browser/)
 - [部署 Office Online Server](https://learn.microsoft.com/zh-cn/officeonlineserver/deploy-office-online-server)
 - [Google Drive](https://drive.google.com/viewer?url=${encodeURIComponent(url)})
+- [永中DCS](https://www.yozodcs.com/)
 
 #### 文档预览（付费）
 - [XDOC文档预览服务](https://view.xdocin.com/)
