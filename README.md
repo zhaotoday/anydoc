@@ -22,6 +22,7 @@
 - [Spring Boot整合OpenOffice实现Word、Excel、PPT在线预览](https://juejin.cn/post/7120904778959290399)
 - [Word转html](https://juejin.cn/post/6854573212810870798)
 - [jodconverter实现在线预览](https://juejin.cn/post/7030766540010045453)
+- [Office在线预览方案](https://juejin.cn/post/7038854183809712135)
 
 #### 其他
 - [pdf.js](https://mozilla.github.io/pdf.js/)
