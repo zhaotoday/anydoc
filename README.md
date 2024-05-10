@@ -29,3 +29,4 @@
 - [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer)
 - [OnlyOffice Vue](https://api.onlyoffice.com/editors/vue)
 - [@microsoft/office-js](https://www.npmjs.com/package/@microsoft/office-js)
+- [Office 脚本 API 参考](https://learn.microsoft.com/zh-cn/javascript/api/office-scripts/overview?view=office-scripts)
