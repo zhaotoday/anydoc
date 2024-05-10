@@ -18,6 +18,7 @@
 #### 文章
 - [使用Openoffice或LibreOffice实现World、Excel、PPTX在线预览](https://juejin.cn/post/7264609364672512056)
 - [Word转html](https://juejin.cn/post/6854573212810870798)
+- [jodconverter实现在线预览](https://juejin.cn/post/7030766540010045453)
 
 #### 其他
 - [pdf.js](https://mozilla.github.io/pdf.js/)
