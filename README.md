@@ -28,3 +28,4 @@
 - [Univer 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。](https://github.com/dream-num/univer/blob/dev/README-zh.md)
 - [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer)
 - [OnlyOffice Vue](https://api.onlyoffice.com/editors/vue)
+- [@microsoft/office-js](https://www.npmjs.com/package/@microsoft/office-js)
