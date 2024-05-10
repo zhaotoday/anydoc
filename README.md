@@ -6,6 +6,7 @@
 - [jodconverter: 将 Office 文档（如 Word、Excel、PowerPoint 等）转换为其他格式，例如 PDF、HTML、图像等](https://github.com/jodconverter/jodconverter)
 
 #### 文档预览（免费）
+- [docxjs](https://github.com/VolodymyrBaydalka/docxjs)
 - [kkFileView](https://kkview.cn/zh-cn/index.html)
 - [微软在线 Office Web Viewer](https://www.microsoft.com/en-us/microsoft-365/blog/2013/04/10/office-web-viewer-view-office-documents-in-a-browser/)
 - [部署 Office Online Server](https://learn.microsoft.com/zh-cn/officeonlineserver/deploy-office-online-server)
