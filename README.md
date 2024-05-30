@@ -39,3 +39,4 @@
 - [Office 脚本 API 参考](https://learn.microsoft.com/zh-cn/javascript/api/office-scripts/overview?view=office-scripts)
 - [PDFKit](https://github.com/foliojs/pdfkit)
 - [wkhtmltopdf](https://wkhtmltopdf.org/index.html)
+- [html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
