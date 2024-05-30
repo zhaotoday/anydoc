@@ -31,6 +31,9 @@
 - [html 转 pdf 技术方案调研](https://juejin.cn/post/7338259035043561498)
 - [Vue前端实现HTML转PDF并导出](https://juejin.cn/post/7090368199291568165)
 
+#### 相关库
+- [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
+
 #### 其他
 - [pdf.js](https://mozilla.github.io/pdf.js/)
 - [Univer 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。](https://github.com/dream-num/univer/blob/dev/README-zh.md)
