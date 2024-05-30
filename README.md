@@ -29,6 +29,7 @@
 - [使用docker在线/离线部署onlyoffice，在线预览/编辑demo](https://juejin.cn/post/7084101754962313253)
 - [基于开源方案构建统一的文件在线预览与office协同编辑平台的架构与实现历程](https://juejin.cn/post/7137096424797241352)
 - [html 转 pdf 技术方案调研](https://juejin.cn/post/7338259035043561498)
+- [Vue前端实现HTML转PDF并导出](https://juejin.cn/post/7090368199291568165)
 
 #### 其他
 - [pdf.js](https://mozilla.github.io/pdf.js/)
