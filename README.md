@@ -21,6 +21,7 @@
 - [WPS WebOffice 开放平台](https://solution.wps.cn/)
 
 #### 文章
+- [Pandoc工具笔记总结](https://blog.csdn.net/qq_42210908/article/details/139676176)
 - [Pandoc文档格式转换：安装配置/踩坑记录/使用指南](https://zhuanlan.zhihu.com/p/682455380)
 - [使用Openoffice或LibreOffice实现World、Excel、PPTX在线预览](https://juejin.cn/post/7264609364672512056)
 - [Spring Boot整合OpenOffice实现Word、Excel、PPT在线预览](https://juejin.cn/post/7120904778959290399)
