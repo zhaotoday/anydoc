@@ -1,3 +1,7 @@
+#### 最终方案
+- PDF 转 Docx：[pdf2docx](https://github.com/ArtifexSoftware/pdf2docx)
+- PDF 和 Docx 互转：[libreoffice-convert](https://github.com/elwerene/libreoffice-convert)
+
 #### 文档转换
 - [docx 转 html: mammoth.js](https://github.com/mwilliamson/mammoth.js)
 - [html 转 docx: html-to-docx](https://github.com/privateOmega/html-to-docx)
