@@ -26,6 +26,7 @@
 - [WPS WebOffice 开放平台](https://solution.wps.cn/)
 
 #### 文章
+- [最全的docx,pptx,xlsx(excel),pdf文件预览方案总结](https://juejin.cn/post/7268530145208451124)
 - [OFFICE 文档转换为html在线预览](https://juejin.cn/post/6844903688566210567)
 - [Pandoc工具笔记总结](https://blog.csdn.net/qq_42210908/article/details/139676176)
 - [Pandoc文档格式转换：安装配置/踩坑记录/使用指南](https://zhuanlan.zhihu.com/p/682455380)
