@@ -46,6 +46,7 @@
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
 
 #### 其他
+- [univer](https://github.com/dream-num/univer)
 - [pdf.js](https://mozilla.github.io/pdf.js/)
 - [Univer 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。](https://github.com/dream-num/univer/blob/dev/README-zh.md)
 - [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer)
