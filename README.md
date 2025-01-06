@@ -2,6 +2,7 @@
 - PDF 和 Docx 互转：[LibreOffice](https://www.libreoffice.org/download/download-libreoffice/)、[libreoffice-convert](https://github.com/elwerene/libreoffice-convert)
 - PDF 转 Docx：[pdf2docx](https://github.com/ArtifexSoftware/pdf2docx)
 - PDF 预览：[PDF.js](https://github.com/mozilla/pdf.js)
+- PDF 翻译：[PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate)
 
 #### 文档转换
 - [docx 转 html: mammoth.js](https://github.com/mwilliamson/mammoth.js)
