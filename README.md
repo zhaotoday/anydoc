@@ -47,6 +47,7 @@
 
 #### 相关库
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
+- [document-editor-vue](https://github.com/ONLYOFFICE/document-editor-vue)
 
 #### 其他
 - [MinerU](https://github.com/opendatalab/MinerU)
