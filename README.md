@@ -44,6 +44,7 @@
 - [SpringBoot 实现 PDF 添加水印的方式](https://juejin.cn/post/7232211017471672377)
 - [Univer：Star7.7k, 终于找到啦，这款开源 office 解决方案，太香啦，支持Word、Excel、PPT，真的太优秀啦！！！](https://juejin.cn/post/7451055382779150376)
 - [在系统内实现office文件的预览](https://juejin.cn/post/7413607758578221090)
+- [pdf切片加载](https://juejin.cn/post/7380292749179879439)
 
 #### 相关库
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
