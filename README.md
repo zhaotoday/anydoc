@@ -29,6 +29,10 @@
 - [百度文档服务](https://cloud.baidu.com/product/doc.html)
 - [WPS WebOffice 开放平台](https://solution.wps.cn/)
 
+#### 竞品
+- [Doc2X](https://noedgeai.com/)
+- [otranslator](https://otranslator.com/zh)
+
 #### 文章
 - [pdf 转 word](https://blog.csdn.net/2301_77342543/article/details/132383747)
 - [最全的docx,pptx,xlsx(excel),pdf文件预览方案总结](https://juejin.cn/post/7268530145208451124)
