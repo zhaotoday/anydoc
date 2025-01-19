@@ -33,6 +33,10 @@
 - [Doc2X](https://noedgeai.com/)
 - [OTranslator](https://otranslator.com/zh)
 
+#### 开源
+- [doc2x-doc](https://github.com/NoEdgeAI/doc2x-doc)
+- [py-googletrans](https://github.com/ssut/py-googletrans)
+
 #### 文章
 - [pdf 转 word](https://blog.csdn.net/2301_77342543/article/details/132383747)
 - [最全的docx,pptx,xlsx(excel),pdf文件预览方案总结](https://juejin.cn/post/7268530145208451124)
