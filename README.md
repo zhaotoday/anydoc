@@ -11,6 +11,9 @@
 - [pdf 转 html: pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX)
 - [jodconverter: 将 Office 文档（如 Word、Excel、PowerPoint 等）转换为其他格式，例如 PDF、HTML、图像等](https://github.com/jodconverter/jodconverter)
 
+#### 文档翻译
+- [Doc2XAPITranslate](https://github.com/NoEdgeAI/Doc2XAPITranslate)
+
 #### 文档预览（免费）
 - [vue-office](https://github.com/501351981/vue-office)
 - [docxjs](https://github.com/VolodymyrBaydalka/docxjs)
