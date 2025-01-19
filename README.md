@@ -31,7 +31,7 @@
 
 #### 竞品
 - [Doc2X](https://noedgeai.com/)
-- [otranslator](https://otranslator.com/zh)
+- [OTranslator](https://otranslator.com/zh)
 
 #### 文章
 - [pdf 转 word](https://blog.csdn.net/2301_77342543/article/details/132383747)
