@@ -37,6 +37,7 @@
 - [doc2x-doc](https://github.com/NoEdgeAI/doc2x-doc)
 - [py-googletrans](https://github.com/ssut/py-googletrans)
 - [AI-Office-Translator](https://github.com/YANG-Haruka/AI-Office-Translator)
+- [MinerU](https://github.com/opendatalab/MinerU)
 
 #### 文章
 - [pdf 转 word](https://blog.csdn.net/2301_77342543/article/details/132383747)
