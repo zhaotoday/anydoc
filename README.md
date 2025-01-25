@@ -76,4 +76,4 @@
 - [wkhtmltopdf](https://wkhtmltopdf.org/index.html)
 - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
 - [comic-translate](https://github.com/ogkalu2/comic-translate)
-  
+- [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
