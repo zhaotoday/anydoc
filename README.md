@@ -13,6 +13,7 @@
 
 #### 文档翻译
 - [Doc2XAPITranslate](https://github.com/NoEdgeAI/Doc2XAPITranslate)
+- [yadt](https://github.com/funstory-ai/yadt)
 
 #### 文档预览（免费）
 - [vue-office](https://github.com/501351981/vue-office)
