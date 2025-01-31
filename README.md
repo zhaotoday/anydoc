@@ -85,3 +85,4 @@
 - [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher)
 - [MrDoc](https://www.mrdoc.pro/)
+- [PDF.js Express](https://pdfjs.express/)
