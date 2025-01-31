@@ -63,6 +63,7 @@
 #### 相关库
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
 - [document-editor-vue](https://github.com/ONLYOFFICE/document-editor-vue)
+- [pdfh5](https://github.com/gjTool/pdfh5)
 
 #### 其他
 - [MinerU](https://github.com/opendatalab/MinerU)
