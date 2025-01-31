@@ -67,6 +67,7 @@
 - [document-editor-vue](https://github.com/ONLYOFFICE/document-editor-vue)
 - [pdfh5](https://github.com/gjTool/pdfh5)
 - [pdfobject](https://pdfobject.com/)
+- [pdfjs-cors](https://github.com/ChaoxuWei/pdfjs-cors)
 
 #### 其他
 - [MinerU](https://github.com/opendatalab/MinerU)
