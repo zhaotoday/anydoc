@@ -23,6 +23,7 @@
 - [部署 Office Online Server](https://learn.microsoft.com/zh-cn/officeonlineserver/deploy-office-online-server)
 - [Google Drive](https://drive.google.com/viewer?url=${encodeURIComponent(url)})
 - [永中DCS](https://www.yozodcs.com/)
+- [sunsetglow-vue-pdf-viewer](https://github.com/wyaoting/sunsetglow-vue-pdf-viewer)
 
 #### 文档预览（付费）
 - [XDOC文档预览服务](https://view.xdocin.com/)
