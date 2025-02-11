@@ -24,6 +24,7 @@
 - [Google Drive](https://drive.google.com/viewer?url=${encodeURIComponent(url)})
 - [永中DCS](https://www.yozodcs.com/)
 - [sunsetglow-vue-pdf-viewer](https://github.com/wyaoting/sunsetglow-vue-pdf-viewer)
+- [pptx-preview](https://github.com/501351981/pptx-preview)
 
 #### 文档预览（付费）
 - [XDOC文档预览服务](https://view.xdocin.com/)
