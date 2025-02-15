@@ -42,6 +42,7 @@
 - [AI-Office-Translator](https://github.com/YANG-Haruka/AI-Office-Translator)
 - [MinerU](https://github.com/opendatalab/MinerU)
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
+- [gptpdf](https://github.com/CosmosShadow/gptpdf)
 
 #### 文章
 - [pdf 转 word](https://blog.csdn.net/2301_77342543/article/details/132383747)
