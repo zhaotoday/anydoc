@@ -65,6 +65,7 @@
 - [pdf切片加载](https://juejin.cn/post/7380292749179879439)
 - [PDF.js Viewer Options](https://github.com/mozilla/pdf.js/wiki/Viewer-options)
 - [前端PDF预览技术揭秘：PDF.js与PDFObject.js性能、兼容性全面对比](https://juejin.cn/post/7413562537689071650)
+- [六个开源的PDF转Markdown项目](https://zhuanlan.zhihu.com/p/711487482)
 
 #### 相关库
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
