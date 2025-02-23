@@ -70,6 +70,7 @@
 - [探索PDF制作新境界：强力推荐开源库pdfmake](https://juejin.cn/post/7426377337686130703)
 
 #### 相关库
+- [vue-pdf](https://github.com/TaTo30/vue-pdf)
 - [vue-pdf-embed](https://github.com/hrynko/vue-pdf-embed)
 - [document-editor-vue](https://github.com/ONLYOFFICE/document-editor-vue)
 - [pdfh5](https://github.com/gjTool/pdfh5)
