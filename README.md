@@ -68,6 +68,7 @@
 - [前端PDF预览技术揭秘：PDF.js与PDFObject.js性能、兼容性全面对比](https://juejin.cn/post/7413562537689071650)
 - [六个开源的PDF转Markdown项目](https://zhuanlan.zhihu.com/p/711487482)
 - [探索PDF制作新境界：强力推荐开源库pdfmake](https://juejin.cn/post/7426377337686130703)
+- [全网最全的docx、pptx、xlsx、pdf文件预览方案（典藏版）](https://zhuanlan.zhihu.com/p/672463922)
 
 #### 相关库
 - [vue-pdf](https://github.com/TaTo30/vue-pdf)
