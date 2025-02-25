@@ -46,6 +46,7 @@
 - [gptpdf](https://github.com/CosmosShadow/gptpdf)
 
 #### 文章
+- [ONLYOFFICE集成（Vue3+Nest)](https://juejin.cn/post/7394376050372542516)
 - [pdf 转 word](https://blog.csdn.net/2301_77342543/article/details/132383747)
 - [最全的docx,pptx,xlsx(excel),pdf文件预览方案总结](https://juejin.cn/post/7268530145208451124)
 - [OFFICE 文档转换为html在线预览](https://juejin.cn/post/6844903688566210567)
