@@ -37,6 +37,9 @@
 - [Doc2X](https://noedgeai.com/)
 - [OTranslator](https://otranslator.com/zh)
 
+#### 第三方服务
+- [FileZ](https://www.filez.com/)
+
 #### 开源
 - [doc2x-doc](https://github.com/NoEdgeAI/doc2x-doc)
 - [py-googletrans](https://github.com/ssut/py-googletrans)
