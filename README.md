@@ -36,6 +36,7 @@
 #### 竞品
 - [Doc2X](https://noedgeai.com/)
 - [OTranslator](https://otranslator.com/zh)
+- [Suppr 超能文献](https://suppr.wilddata.cn/)
 
 #### 第三方服务
 - [FileZ](https://www.filez.com/)
