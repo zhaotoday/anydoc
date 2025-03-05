@@ -77,6 +77,7 @@
 - [探索PDF制作新境界：强力推荐开源库pdfmake](https://juejin.cn/post/7426377337686130703)
 - [全网最全的docx、pptx、xlsx、pdf文件预览方案（典藏版）](https://zhuanlan.zhihu.com/p/672463922)
 - [对比6个RAG知识库文档处理工具](https://blog.csdn.net/m0_65555479/article/details/145911305)
+- [Allenai开源多模态的文档智能解析大模型（Olmocr）方法、效果浅析](https://www.51cto.com/article/809219.html)
 
 #### 相关库
 - [vue-pdf](https://github.com/TaTo30/vue-pdf)
