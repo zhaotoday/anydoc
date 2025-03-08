@@ -49,6 +49,7 @@
 - [PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 - [gptpdf](https://github.com/CosmosShadow/gptpdf)
 - [polaris-doc-viewer](https://github.com/Hello-job/polaris-doc-viewer)
+- [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
 #### 文章
 - [vue基于onlyoffice实现DOC、DOCX、XLSX、PPT、PDF文档编辑预览](https://juejin.cn/post/7166197009291378702)
