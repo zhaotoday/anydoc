@@ -37,6 +37,7 @@
 - [Doc2X](https://noedgeai.com/)
 - [OTranslator](https://otranslator.com/zh)
 - [Suppr 超能文献](https://suppr.wilddata.cn/)
+- [lingo](https://lingo.dev/zh)
 
 #### 第三方服务
 - [FileZ](https://www.filez.com/)
