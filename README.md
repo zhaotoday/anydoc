@@ -15,7 +15,7 @@
 - [Doc2XAPITranslate](https://github.com/NoEdgeAI/Doc2XAPITranslate)
 - [yadt](https://github.com/funstory-ai/yadt)
 - [AI-Office-Translator](https://github.com/YANG-Haruka/AI-Office-Translator)
-- [GoMaxAI-ChatGPT-Midjourney-Pro](https://github.com/51yuese/GoMaxAI-ChatGPT-Midjourney-Pro)
+- [ezwork-ai-doc-translation](https://github.com/EHEWON/ezwork-ai-doc-translation)
 
 #### 文档预览（免费）
 - [vue-office](https://github.com/501351981/vue-office)
