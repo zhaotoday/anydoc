@@ -54,6 +54,7 @@
 - [PPTist](https://github.com/pipipi-pikachu/PPTist)
 
 #### 文章
+- [Stirling-PDF：一款优秀的开源PDF处理工具](https://juejin.cn/post/7289662629361418252)
 - [vue基于onlyoffice实现DOC、DOCX、XLSX、PPT、PDF文档编辑预览](https://juejin.cn/post/7166197009291378702)
 - [ONLYOFFICE集成（Vue3+Nest)](https://juejin.cn/post/7394376050372542516)
 - [pdf 转 word](https://blog.csdn.net/2301_77342543/article/details/132383747)
