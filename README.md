@@ -44,6 +44,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [markitdown](https://github.com/microsoft/markitdown)
 - [diff-pdf](https://github.com/vslavik/diff-pdf)
 - [doc2x-doc](https://github.com/NoEdgeAI/doc2x-doc)
 - [py-googletrans](https://github.com/ssut/py-googletrans)
