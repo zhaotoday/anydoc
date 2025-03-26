@@ -56,6 +56,7 @@
 - [gptpdf](https://github.com/CosmosShadow/gptpdf)
 - [polaris-doc-viewer](https://github.com/Hello-job/polaris-doc-viewer)
 - [PPTist](https://github.com/pipipi-pikachu/PPTist)
+- [pptx](https://github.com/MrXujiang/pptx)
 
 #### 文章
 - [微软开源神器 MarkItDown：一键将办公文档转换为 Markdown 的 Python 工具](https://blog.csdn.net/qq_51116518/article/details/144656529)
