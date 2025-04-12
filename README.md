@@ -62,6 +62,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [pdf文件显示+定位+高亮](https://juejin.cn/post/7452988506776977459)
 - [AI 辅助开发在线 Excel 前端项目，1人开发不远了](https://juejin.cn/post/7426952817329569833)
 - [前端实现在线预览excel文件](https://juejin.cn/post/7419926107856666624)
 - [微软开源神器 MarkItDown：一键将办公文档转换为 Markdown 的 Python 工具](https://blog.csdn.net/qq_51116518/article/details/144656529)
