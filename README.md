@@ -121,3 +121,4 @@
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher)
 - [MrDoc](https://www.mrdoc.pro/)
 - [PDF.js Express](https://pdfjs.express/)
+- [OmniAI](https://getomni.ai/)
