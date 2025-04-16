@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [docling](https://github.com/docling-project/docling)
 - [etherpad-lite](https://github.com/ether/etherpad-lite)
 - [chatgpt-md-translator](https://github.com/smikitky/chatgpt-md-translator)
 - [docx2md](https://github.com/mattn/docx2md)
