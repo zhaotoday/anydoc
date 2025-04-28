@@ -63,6 +63,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [做Docx预览，一定要做这个神库！！](https://juejin.cn/post/7493733975779917861)
 - [改造PDF.js源码，实现审批系统对PDF阅读器的集成（二）——实现对批注的管理以及添加新批注](https://juejin.cn/post/7368366264669159451)
 - [pdf文件显示+定位+高亮](https://juejin.cn/post/7452988506776977459)
 - [AI 辅助开发在线 Excel 前端项目，1人开发不远了](https://juejin.cn/post/7426952817329569833)
