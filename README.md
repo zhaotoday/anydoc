@@ -121,6 +121,7 @@
 - [html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
 - [comic-translate](https://github.com/ogkalu2/comic-translate)
 - [zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
+- [zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh)
 - [PDFPatcher](https://github.com/wmjordan/PDFPatcher)
 - [MrDoc](https://www.mrdoc.pro/)
 - [PDF.js Express](https://pdfjs.express/)
