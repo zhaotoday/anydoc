@@ -64,6 +64,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [推荐 10 个受欢迎的 OCR 开源项目](https://juejin.cn/post/7483409820243689511)
 - [做Docx预览，一定要做这个神库！！](https://juejin.cn/post/7493733975779917861)
 - [改造PDF.js源码，实现审批系统对PDF阅读器的集成（二）——实现对批注的管理以及添加新批注](https://juejin.cn/post/7368366264669159451)
 - [pdf文件显示+定位+高亮](https://juejin.cn/post/7452988506776977459)
