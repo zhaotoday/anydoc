@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [excelize](https://github.com/qax-os/excelize)
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
 - [docling](https://github.com/docling-project/docling)
 - [etherpad-lite](https://github.com/ether/etherpad-lite)
