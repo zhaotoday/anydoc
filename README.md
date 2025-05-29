@@ -65,6 +65,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [字节开源多模态复杂文档解析模型！Dolphin：页面与元素并行解析，精准解析复杂文档！](https://juejin.cn/post/7509435535929360421)
 - [推荐 10 个受欢迎的 OCR 开源项目](https://juejin.cn/post/7483409820243689511)
 - [做Docx预览，一定要做这个神库！！](https://juejin.cn/post/7493733975779917861)
 - [改造PDF.js源码，实现审批系统对PDF阅读器的集成（二）——实现对批注的管理以及添加新批注](https://juejin.cn/post/7368366264669159451)
