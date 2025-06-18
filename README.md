@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [dzzoffice](https://github.com/zyx0814/dzzoffice)
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft)
 - [excelize](https://github.com/qax-os/excelize)
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit)
