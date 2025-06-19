@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [translate](https://github.com/xnx3/translate)
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 - [dzzoffice](https://github.com/zyx0814/dzzoffice)
 - [pdf-craft](https://github.com/oomol-lab/pdf-craft)
