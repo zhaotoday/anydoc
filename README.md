@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [tesseract.js](https://github.com/naptha/tesseract.js)
 - [translate](https://github.com/xnx3/translate)
 - [MonkeyOCR](https://github.com/Yuliang-Liu/MonkeyOCR)
 - [dzzoffice](https://github.com/zyx0814/dzzoffice)
