@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [pdf-parse](https://github.com/albertcui/pdf-parse)
 - [pdf2json](https://github.com/modesty/pdf2json)
 - [gptpdf](https://github.com/CosmosShadow/gptpdf)
 - [onlyoffice-web-local](https://github.com/sweetwisdom/onlyoffice-web-local)
