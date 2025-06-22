@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [pdf2json](https://github.com/modesty/pdf2json)
 - [gptpdf](https://github.com/CosmosShadow/gptpdf)
 - [onlyoffice-web-local](https://github.com/sweetwisdom/onlyoffice-web-local)
 - [tesseract.js](https://github.com/naptha/tesseract.js)
