@@ -75,6 +75,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [基于 Nest 和 Vue.js 的 Onlyoffice 示例](https://github.com/wytxer/demo-onlyoffice)
 - [纯前端集成OnlyOffice的终极方案：基于WASM的文档转换与本地化编辑（已开源）](https://juejin.cn/post/7508654134267281418)
 - [字节开源多模态复杂文档解析模型！Dolphin：页面与元素并行解析，精准解析复杂文档！](https://juejin.cn/post/7509435535929360421)
 - [推荐 10 个受欢迎的 OCR 开源项目](https://juejin.cn/post/7483409820243689511)
