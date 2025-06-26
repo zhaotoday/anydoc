@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [Office-Tool](https://github.com/YerongAI/Office-Tool)
 - [npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader)
 - [pdf-parse](https://github.com/albertcui/pdf-parse)
 - [pdf2json](https://github.com/modesty/pdf2json)
