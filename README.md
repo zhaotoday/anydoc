@@ -45,6 +45,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)
 - [Office-Tool](https://github.com/YerongAI/Office-Tool)
 - [npm-pdfreader](https://github.com/adrienjoly/npm-pdfreader)
 - [pdf-parse](https://github.com/albertcui/pdf-parse)
