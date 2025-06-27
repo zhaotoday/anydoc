@@ -36,6 +36,7 @@
 - [WPS WebOffice 开放平台](https://solution.wps.cn/)
 
 #### 竞品
+- [灵语文档](https://mindlink.turntip.cn/)
 - [Doc2X](https://noedgeai.com/)
 - [OTranslator](https://otranslator.com/zh)
 - [Suppr 超能文献](https://suppr.wilddata.cn/)
