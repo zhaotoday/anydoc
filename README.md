@@ -80,6 +80,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [【Web开发】几个免费浏览器Office文档在线编辑方案](http://wms.clicksun.cn/mis/bbs/showbbs.asp?id=31295)
 - [PDF工具集：PyPDF / PyPDF2、PDFMiner.six、PyMuPDF（fitz） 和 pdfplumber（v2+）](https://juejin.cn/post/7503490370367832079)
 - [基于 Nest 和 Vue.js 的 Onlyoffice 示例](https://github.com/wytxer/demo-onlyoffice)
 - [纯前端集成OnlyOffice的终极方案：基于WASM的文档转换与本地化编辑（已开源）](https://juejin.cn/post/7508654134267281418)
