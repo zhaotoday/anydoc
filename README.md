@@ -46,6 +46,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [koreader](https://github.com/koreader/koreader)
 - [PptxGenJS](https://github.com/gitbrent/PptxGenJS)
 - [pptxtojson](https://github.com/pipipi-pikachu/pptxtojson)
 - [Office-Tool](https://github.com/YerongAI/Office-Tool)
