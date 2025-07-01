@@ -47,6 +47,8 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [qpdf-wasm](https://github.com/neslinesli93/qpdf-wasm)
+- [qpdf-web](https://github.com/yuedud/qpdf-web)
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
 - [CollaboraOnline](https://github.com/CollaboraOnline/online)
 - [koreader](https://github.com/koreader/koreader)
