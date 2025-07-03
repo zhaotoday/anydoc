@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [pdfbox](https://pdfbox.apache.org/)
 - [qpdf-wasm](https://github.com/neslinesli93/qpdf-wasm)
 - [qpdf-web](https://github.com/yuedud/qpdf-web)
 - [nextcloud/richdocuments](https://github.com/nextcloud/richdocuments)
