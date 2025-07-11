@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [costomize-pdf](https://github.com/xknk/costomize-pdf)
 - [PDF-Guru](https://github.com/kevin2li/PDF-Guru)
 - [pdfbox](https://pdfbox.apache.org/)
 - [qpdf-wasm](https://github.com/neslinesli93/qpdf-wasm)
