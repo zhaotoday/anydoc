@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [Seed-X-7B](https://github.com/ByteDance-Seed/Seed-X-7B)
 - [ConvertX](https://github.com/C4illin/ConvertX)
 - [costomize-pdf](https://github.com/xknk/costomize-pdf)
 - [PDF-Guru](https://github.com/kevin2li/PDF-Guru)
