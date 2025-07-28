@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 - [Dango-Translator](https://github.com/PantsuDango/Dango-Translator)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 - [Seed-X-7B](https://github.com/ByteDance-Seed/Seed-X-7B)
