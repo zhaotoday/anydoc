@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
 - [Dango-Translator](https://github.com/PantsuDango/Dango-Translator)
 - [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
