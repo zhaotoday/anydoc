@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [surya](https://github.com/datalab-to/surya)
 - [EasyOCR](https://github.com/JaidedAI/EasyOCR)
 - [manga-image-translator](https://github.com/zyddnys/manga-image-translator)
