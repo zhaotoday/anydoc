@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [MultiAgentPPT](https://github.com/johnson7788/MultiAgentPPT)
 - [presentation-ai](https://github.com/allweonedev/presentation-ai)
 - [presenton](https://github.com/presenton/presenton)
 - [dots.ocr](https://github.com/rednote-hilab/dots.ocr)
