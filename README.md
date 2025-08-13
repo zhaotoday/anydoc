@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [Powerpointer-For-Local-LLMs](https://github.com/CyberTimon/Powerpointer-For-Local-LLMs)
 - [MultiAgentPPT](https://github.com/johnson7788/MultiAgentPPT)
 - [presentation-ai](https://github.com/allweonedev/presentation-ai)
 - [presenton](https://github.com/presenton/presenton)
