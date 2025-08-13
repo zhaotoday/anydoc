@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [presenton](https://github.com/presenton/presenton)
 - [dots.ocr](https://github.com/rednote-hilab/dots.ocr)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 - [surya](https://github.com/datalab-to/surya)
