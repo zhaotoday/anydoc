@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [AiPPT](https://github.com/veasion/AiPPT)
 - [ai-to-pptx](https://github.com/SmartSchoolAI/ai-to-pptx)
 - [LandPPT](https://github.com/sligter/LandPPT)
 - [PPTAgent](https://github.com/icip-cas/PPTAgent)
