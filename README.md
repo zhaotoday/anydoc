@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [presentation-ai](https://github.com/allweonedev/presentation-ai)
 - [presenton](https://github.com/presenton/presenton)
 - [dots.ocr](https://github.com/rednote-hilab/dots.ocr)
 - [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
