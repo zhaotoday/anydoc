@@ -106,6 +106,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [什么！纯前端也能识别图片中的文案、还支持100多个国家的语言](https://juejin.cn/post/7515874048606552074)
 - [前端通过onlyoffice实现office文件的在线预览](https://juejin.cn/post/7439178695907328000)
 - [前端实现PDF标注](https://juejin.cn/post/7409965011940474892)
 - [【Web开发】几个免费浏览器Office文档在线编辑方案](http://wms.clicksun.cn/mis/bbs/showbbs.asp?id=31295)
