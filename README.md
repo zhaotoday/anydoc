@@ -106,6 +106,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [这种小工具居然也能在某鱼卖钱？我用Python一天能写100个，纯干货！](https://juejin.cn/post/7501221695550914575)
 - [什么！纯前端也能识别图片中的文案、还支持100多个国家的语言](https://juejin.cn/post/7515874048606552074)
 - [前端通过onlyoffice实现office文件的在线预览](https://juejin.cn/post/7439178695907328000)
 - [前端实现PDF标注](https://juejin.cn/post/7409965011940474892)
