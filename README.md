@@ -165,6 +165,7 @@
 - [pdfjs-cors](https://github.com/ChaoxuWei/pdfjs-cors)
 
 #### 其他
+- [zotero](https://www.zotero.org/)
 - [agentic-doc](https://github.com/landing-ai/agentic-doc)
 - [MinerU](https://github.com/opendatalab/MinerU)
 - [univer](https://github.com/dream-num/univer)
