@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [readest](https://github.com/readest/readest)
 - [excelize](https://xuri.me/excelize/zh-hans/)
 - [OfficeHub](https://github.com/MrXujiang/OfficeHub)
 - [AiPPT](https://github.com/veasion/AiPPT)
