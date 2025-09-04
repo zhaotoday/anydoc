@@ -48,6 +48,8 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai)
+- [slidevjs/themes](https://github.com/slidevjs/themes)
 - [readest](https://github.com/readest/readest)
 - [excelize](https://xuri.me/excelize/zh-hans/)
 - [OfficeHub](https://github.com/MrXujiang/OfficeHub)
