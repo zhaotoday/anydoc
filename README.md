@@ -48,6 +48,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [chromiumly](https://github.com/cherfia/chromiumly)
 - [slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai)
 - [slidevjs/themes](https://github.com/slidevjs/themes)
 - [readest](https://github.com/readest/readest)
