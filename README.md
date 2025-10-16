@@ -43,6 +43,7 @@
 - [Suppr 超能文献](https://suppr.wilddata.cn/)
 - [lingo](https://lingo.dev/zh)
 - [offidocs](https://www.offidocs.com/)
+- [wilddata](https://suppr.wilddata.cn/)
 
 #### 第三方服务
 - [FileZ](https://www.filez.com/)
