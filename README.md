@@ -49,6 +49,8 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [document](https://github.com/ranuts/document)
+- [fileview](https://github.com/ranuts/fileview)
 - [luckysheet-crdt](https://github.com/pushu-wf/luckysheet-crdt)
 - [chromiumly](https://github.com/cherfia/chromiumly)
 - [slidev-ai](https://github.com/LSTM-Kirigaya/slidev-ai)
