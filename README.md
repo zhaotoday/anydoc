@@ -117,6 +117,7 @@
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper)
 
 #### 文章
+- [Surya：Star14.7k，这个开源项目真的太炸裂了，一款非常强大的文档OCR工具包,几乎已经适配了大部分国家的语言，抓紧收藏起来吧](https://juejin.cn/post/7450697556638646324)
 - [深入浅出，教你用JS/TS轻松搞定Excel与XML互转](https://juejin.cn/post/7530516153065717794)
 - [2025最新Windows/Office离线激活工具全指南 - Activation Program使用教程](https://juejin.cn/post/7530975253188132898)
 - [这种小工具居然也能在某鱼卖钱？我用Python一天能写100个，纯干货！](https://juejin.cn/post/7501221695550914575)
