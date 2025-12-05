@@ -49,6 +49,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [mvp-onlyoffice](https://github.com/electroluxcode/mvp-onlyoffice)
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
 - [mupdf.js](https://github.com/ArtifexSoftware/mupdf.js)
 - [onlyoffice-x2t-wasm](https://github.com/cryptpad/onlyoffice-x2t-wasm)
