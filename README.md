@@ -49,6 +49,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next)
 - [vue-pdf-interactor](https://github.com/OSpoon/vue-pdf-interactor)
 - [mvp-onlyoffice](https://github.com/electroluxcode/mvp-onlyoffice)
 - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
