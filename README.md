@@ -49,6 +49,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [python-office](https://github.com/CoderWanFeng/python-office)
 - [jitword-sdk](https://github.com/MrXujiang/jitword-sdk)
 - [PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next)
 - [vue-pdf-interactor](https://github.com/OSpoon/vue-pdf-interactor)
