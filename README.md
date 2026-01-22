@@ -49,6 +49,7 @@
 - [FileZ](https://www.filez.com/)
 
 #### 开源
+- [DocFlow](https://github.com/xun082/DocFlow)
 - [unstructured](https://github.com/Unstructured-IO/unstructured)
 - [bentopdf](https://github.com/alam00000/bentopdf)
 - [python-office](https://github.com/CoderWanFeng/python-office)
