@@ -47,6 +47,7 @@
 
 #### 第三方服务
 - [FileZ](https://www.filez.com/)
+- [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
 - [DocFlow](https://github.com/xun082/DocFlow)
