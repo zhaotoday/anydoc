@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [aippt](https://github.com/jitOffice/aippt)
 - [DocFlow](https://github.com/xun082/DocFlow)
 - [unstructured](https://github.com/Unstructured-IO/unstructured)
 - [bentopdf](https://github.com/alam00000/bentopdf)
