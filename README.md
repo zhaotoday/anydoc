@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [ppt-master](https://github.com/hugohe3/ppt-master)
 - [Luckysheet](https://github.com/dream-num/Luckysheet)
 - [aippt](https://github.com/jitOffice/aippt)
 - [DocFlow](https://github.com/xun082/DocFlow)
