@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [LLM_PDF_Translator](https://github.com/poppanda/LLM_PDF_Translator)
 - [translate-book](https://github.com/deusyu/translate-book)
 - [docutranslate](https://github.com/xunbu/docutranslate)
 - [ppt-master](https://github.com/hugohe3/ppt-master)
