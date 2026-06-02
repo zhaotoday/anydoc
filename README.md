@@ -50,7 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
-- [docx-editor](https://github.com/eigenpal/docx-editor)
+- [liteparse](https://github.com/run-llama/liteparse)
 - [LLM_PDF_Translator](https://github.com/poppanda/LLM_PDF_Translator)
 - [translate-book](https://github.com/deusyu/translate-book)
 - [docutranslate](https://github.com/xunbu/docutranslate)
