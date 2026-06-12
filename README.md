@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
 - [onlyoffice-web-comp](https://github.com/electroluxcode/onlyoffice-web-comp)
 - [liteparse](https://github.com/run-llama/liteparse)
 - [LLM_PDF_Translator](https://github.com/poppanda/LLM_PDF_Translator)
