@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer)
 - [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
 - [pdfcraft](https://github.com/PDFCraftTool/pdfcraft)
 - [onlyoffice-web-comp](https://github.com/electroluxcode/onlyoffice-web-comp)
