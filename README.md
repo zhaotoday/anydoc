@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [translate-book](https://github.com/deusyu/translate-book)
 - [suppr-mcp](https://github.com/WildDataX/suppr-mcp)
 - [docx-template-translator-skill](https://github.com/zouchenzhen/docx-template-translator-skill)
 - [office-open-xml-viewer](https://github.com/yukiyokotani/office-open-xml-viewer)
