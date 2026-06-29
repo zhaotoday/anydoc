@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [open-file-viewer](https://github.com/xushanpei/open-file-viewer)
 - [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR)
 - [TranslateBooksWithLLMs](https://github.com/hydropix/TranslateBooksWithLLMs)
 - [wordflux](https://github.com/pnnbao97/wordflux)
