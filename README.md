@@ -220,6 +220,7 @@
 - [Univer 是一套企业文档与数据协同解决方案，融合了电子表格、文档和幻灯片。](https://github.com/dream-num/univer/blob/dev/README-zh.md)
 - [OnlyOffice](https://github.com/ONLYOFFICE/DocumentServer)
 - [OnlyOffice Vue](https://api.onlyoffice.com/editors/vue)
+- [office-js](https://github.com/OfficeDev/office-js)
 - [@microsoft/office-js](https://www.npmjs.com/package/@microsoft/office-js)
 - [Office 脚本 API 参考](https://learn.microsoft.com/zh-cn/javascript/api/office-scripts/overview?view=office-scripts)
 - [PDFKit](https://github.com/foliojs/pdfkit)
