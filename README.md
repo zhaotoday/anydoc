@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [Filee](https://github.com/KnifeLemon/Filee)
 - [pdf-inspector](https://github.com/firecrawl/pdf-inspector)
 - [anydoc](https://github.com/firecrawl/anydoc)
 - [dompdf.js](https://github.com/lmn1919/dompdf.js)
