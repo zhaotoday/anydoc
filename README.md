@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [univer-workspace](https://github.com/dream-num/univer-workspace)
 - [docx](https://github.com/dolanmiu/docx)
 - [docx-editor](https://github.com/superdoc/docx-editor)
 - [docx-templates](https://github.com/guigrpa/docx-templates)
