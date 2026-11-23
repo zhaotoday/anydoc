@@ -50,6 +50,7 @@
 - [visual-paradigm](https://online.visual-paradigm.com/drive/#proj=0&ppt-to-slideshow)
 
 #### 开源
+- [VibeOffice](https://github.com/tcchen2026/VibeOffice)
 - [chandra](https://github.com/datalab-to/chandra)
 - [liekan-docs](https://github.com/yaojingang/liekan-docs)
 - [univer-workspace](https://github.com/dream-num/univer-workspace)
